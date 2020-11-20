@@ -1,0 +1,32 @@
+2020-11-20 10:10:32,021:INFO:discord.client: logging in using static token
+2020-11-20 10:10:32,324:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2020-11-20 10:10:32,500:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-vlh7",{"micros":130140,"calls":["discord-sessions-prd-2-120",{"micros":128954,"calls":["start_session",{"micros":52263,"calls":["api-prd-main-2n0g",{"micros":49479,"calls":["get_user",{"micros":4798},"add_authorized_ip",{"micros":1955},"get_guilds",{"micros":7371},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":25551,"calls":[]}]}]}] (Session ID: d12907a86e2cda86ca8d0e9f0200dfb8).
+2020-11-20 10:10:53,297:INFO:discord.voice_client: Connecting to voice...
+2020-11-20 10:10:53,297:INFO:discord.voice_client: Starting voice handshake... (connection attempt 1)
+2020-11-20 10:10:53,542:INFO:discord.voice_client: Voice handshake complete. Endpoint found sydney118.discord.media
+2020-11-20 10:10:54,985:INFO:discord.gateway: selected the voice protocol for use (xsalsa20_poly1305_lite)
+2020-11-20 10:10:55,229:INFO:discord.gateway: received secret key for voice connection
+2020-11-20 10:12:03,954:INFO:discord.player: Preparing to terminate ffmpeg process 1817.
+2020-11-20 10:12:03,955:INFO:discord.player: ffmpeg process 1817 successfully terminated with return code of 0.
+2020-11-20 10:12:11,019:INFO:discord.voice_client: The voice handshake is being terminated for Channel ID 763763854730985472 (Guild ID 763763504272375818)
+2020-11-20 10:12:11,020:INFO:discord.voice_client: Disconnecting from voice normally, close code 1000.
+2020-11-20 10:12:14,336:INFO:discord.voice_client: Connecting to voice...
+2020-11-20 10:12:14,337:INFO:discord.voice_client: Starting voice handshake... (connection attempt 1)
+2020-11-20 10:12:14,579:INFO:discord.voice_client: Voice handshake complete. Endpoint found sydney118.discord.media
+2020-11-20 10:12:16,006:INFO:discord.gateway: selected the voice protocol for use (xsalsa20_poly1305_lite)
+2020-11-20 10:12:16,247:INFO:discord.gateway: received secret key for voice connection
+2020-11-20 10:12:41,712:INFO:discord.voice_client: Connecting to voice...
+2020-11-20 10:12:41,712:INFO:discord.voice_client: Starting voice handshake... (connection attempt 1)
+2020-11-20 10:12:41,960:INFO:discord.voice_client: Voice handshake complete. Endpoint found sydney6837.discord.media
+2020-11-20 10:12:43,371:INFO:discord.gateway: selected the voice protocol for use (xsalsa20_poly1305_lite)
+2020-11-20 10:12:43,607:INFO:discord.gateway: received secret key for voice connection
+2020-11-20 10:13:16,634:INFO:discord.voice_client: The voice handshake is being terminated for Channel ID 774816153649283117 (Guild ID 774816152601493523)
+2020-11-20 10:13:16,634:INFO:discord.voice_client: Disconnecting from voice normally, close code 1000.
+2020-11-20 10:13:16,643:INFO:discord.player: Preparing to terminate ffmpeg process 1834.
+2020-11-20 10:13:16,643:INFO:discord.player: ffmpeg process 1834 has not terminated. Waiting to terminate...
+2020-11-20 10:13:16,648:INFO:discord.player: ffmpeg process 1834 should have terminated with a return code of -9.
+2020-11-20 10:13:20,584:INFO:discord.voice_client: The voice handshake is being terminated for Channel ID 763763854730985472 (Guild ID 763763504272375818)
+2020-11-20 10:13:20,585:INFO:discord.voice_client: Disconnecting from voice normally, close code 1000.
+2020-11-20 10:13:20,593:INFO:discord.player: Preparing to terminate ffmpeg process 1840.
+2020-11-20 10:13:20,593:INFO:discord.player: ffmpeg process 1840 has not terminated. Waiting to terminate...
+2020-11-20 10:13:20,598:INFO:discord.player: ffmpeg process 1840 should have terminated with a return code of -9.
